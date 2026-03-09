@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Network'
+      name: "Network",
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
     title: "Network",
-    description: "welcome to morethan-log!",
+    description: "Welcome to Netowrk",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
